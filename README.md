@@ -5,11 +5,12 @@
 Hi, I'm Ron Vaknin 👋
 =============
 
-- I'm motivated and passionate computer science student.
+- I'm motivated and passionate computer science graduate.
+  
 
 About me
 =============
-- 👨🏻‍🎓 I’m 3rd year computer student.
+- 👨🏻‍🎓 FullStack developer , BackEnd developer.
 - 💪 I'm very motivated , hard worker and a great team player.
 - 📫 How to reach me : Ronvak1@gmail.com
 
